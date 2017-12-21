@@ -4,9 +4,23 @@
 
 **Extension:** Eventually, I would like to convert this to a mobile app so that managers could check inventory from their phone while on the sales floor. I would also allow managers to log in and adjust inventory and item locations directly from the app. To extend this app further, I would like managers to be able to email vendors about a product.
 
+**WireFrame for Views:** 
+![Alt Text](/Screenshots/WireFrame.JPG)
+
 **UML Diagrams for Data Models:** 
 ![Alt Text](/Screenshots/UML1.JPG)
 ![Alt Text](/Screenshots/UML2.JPG)
+
+**Passing Tests in Visual Studio:**
+![Alt Text](/Screenshots/PassingTests.JPG)
+
+**Passing Tests with Postman:**
+![Alt Text](/Screenshots/Postman1.JPG)
+![Alt Text](/Screenshots/Postman2.JPG)
+![Alt Text](/Screenshots/Postman3.JPG)
+![Alt Text](/Screenshots/Postman4.JPG)
+![Alt Text](/Screenshots/Postman5.JPG)
+![Alt Text](/Screenshots/Postman6.JPG)
 
 **Resources:** Wireframing Tool - https://wireframe.cc | Template - https://themewagon.com
 
