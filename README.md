@@ -4,7 +4,10 @@
 
 **Extension:** Eventually, I would like to convert this to a mobile app so that managers could check inventory from their phone while on the sales floor. I would also allow managers to log in and adjust inventory and item locations directly from the app. To extend this app further, I would like managers to be able to email vendors about a product.
 
-**WireFrame:** Below is an outline of each view within the app. The lines indicate that you can navigate between these views.
-![alt text](https://github.com/Mjmarek/Inventory-Management-Web/tree/master/Screenshots/WireFrame.JPG "WireFrame Views")
+**UML Diagrams for Data Models:** 
+![Alt Text](/Screenshots/UML1.JPG)
+![Alt Text](/Screenshots/UML2.JPG)
 
 **Resources:** Wireframing Tool - https://wireframe.cc | Template - https://themewagon.com
+
+**Contact Information:** Monica Marek | monicamarek24@gmail.com
