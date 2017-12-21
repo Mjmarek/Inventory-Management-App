@@ -348,7 +348,6 @@ namespace Inventory.Web.Controllers
             }
         }
 
-        //
         // POST: /Account/ExternalLoginConfirmation
         [HttpPost]
         [AllowAnonymous]
